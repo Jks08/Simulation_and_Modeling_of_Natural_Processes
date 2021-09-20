@@ -186,3 +186,5 @@ for i in range(max_iter):
     if i%img_iter==0:
         print("Writing images at iteration {0}".format(i))
         plot_bodies(bodies, i//img_iter)
+
+ #Answer: 0.5005
